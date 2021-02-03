@@ -1,4 +1,5 @@
-# test
+# Vue_todoApp
+a to do app using vue + bootstrap + jsonplaceholder
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
